@@ -38,7 +38,8 @@ snap remove thunderbird
 #snap remove rhythmbox  
 snap refresh
 
-apt remove rhythmbox
+apt remove rhythmbox deja-dup
+
 # ====================================================================
 # Desactivar actualitzacions automatiques snap i apt
 # ====================================================================
